@@ -16,6 +16,6 @@
 [Link Original: Task 1](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/solutions/7457796/2194_e_py-by-sharrrkkk-6czh/)
 
 
-[Link Github: Task 3](https://github.com/Sharrrkkk/daily-programming-challenges/blob/main/2026/week-0/leetcode-e-array-2.py)
+[Link Github: Task 2](https://github.com/Sharrrkkk/daily-programming-challenges/blob/main/2026/week-0/leetcode-e-array-2.py)
 
-[Link Original: Task 3](https://leetcode.com/problems/kth-distinct-string-in-an-array/solutions/7460770/2053_e_py-by-sharrrkkk-d9dh/)
+[Link Original: Task 2](https://leetcode.com/problems/kth-distinct-string-in-an-array/solutions/7460770/2053_e_py-by-sharrrkkk-d9dh/)
