@@ -19,3 +19,8 @@
 [Link Github: Task 2](https://github.com/Sharrrkkk/daily-programming-challenges/blob/main/2026/week-0/leetcode-e-array-2.py)
 
 [Link Original: Task 2](https://leetcode.com/problems/kth-distinct-string-in-an-array/solutions/7460770/2053_e_py-by-sharrrkkk-d9dh/)
+
+
+[Link Github: Task 3]()
+
+[Link Original: Task 3](https://leetcode.com/problems/rearrange-products-table/solutions/7461187/1795_e_postgresql-by-sharrrkkk-9rky/)
