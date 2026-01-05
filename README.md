@@ -21,12 +21,12 @@
 [Link Original: Task 2](https://leetcode.com/problems/kth-distinct-string-in-an-array/solutions/7460770/2053_e_py-by-sharrrkkk-d9dh/)
 
 
-[Link Github: Task 3](https://github.com/Sharrrkkk/daily-programming-challenges/blob/main/2026/week-0/leetcode-e-sql-3.py)
+[Link Github: Task automation](https://github.com/Sharrrkkk/daily-programming-challenges/blob/main/2026/week-0/leetcode-e-sql-3.py)
+
+[Link Github: Task 3](https://github.com/Sharrrkkk/daily-programming-challenges/blob/main/2026/week-0/leetcode-e-sql-3.sql)
 
 [Link Original: Task 3](https://leetcode.com/problems/rearrange-products-table/solutions/7461187/1795_e_postgresql-by-sharrrkkk-9rky/)
 
-
-[Link Github: Task 4 automation](https://github.com/Sharrrkkk/daily-programming-challenges/blob/main/2026/week-0/leetcode-e-bit_manipulation-4.java)
 
 [Link Github: Task 4](https://github.com/Sharrrkkk/daily-programming-challenges/blob/main/2026/week-0/leetcode-e-bit_manipulation-4.java)
 
