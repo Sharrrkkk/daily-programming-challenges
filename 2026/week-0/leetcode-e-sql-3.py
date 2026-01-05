@@ -1,4 +1,5 @@
 import sqlite3
+import pathlib
 import typing
 
 
@@ -32,10 +33,9 @@ def test(result: list[tuple[typing.Any]])-> None:
             (1, 'store3', 80)]
     print(f"{'ok' if (result == data) else('fail')}")
     print(result)
-    
 
-def database_controller():
-    name_db: str= "data.db"
+
+def built(name_db: str)-> None:
     db_create(name_db)
 
     create_query: str= """CREATE TABLE Products(product_id INTEGER PRIMARY KEY,
@@ -47,51 +47,31 @@ def database_controller():
     cache2: str = "INSERT INTO Products(product_id, store1, store2, store3) VALUES (?, ?, null, ?);"
     insert_query: list[str] = [cache1, cache2]
     insert_data(name_db, insert_query, placeholders_insert)
+    
 
+def database_controller():
+    name_db: str = "automatic.db"
+    built(name_db)
     query: str = query_builder()
     result: list[tuple[typing.Any]] = queries(name_db, query)
     test(result)
 
 
 def query_builder()-> str:
-    query: str = """SELECT
-    P1.product_id AS product_id,
-    'store1' AS "store",
-    P1.store1 AS price
-FROM
-    Products AS P1
-WHERE
-    P1.store1 IS NOT NULL
-
-UNION ALL
-SELECT
-    P2.product_id AS product_id,
-    'store2' AS "store",
-    P2.store2 AS price
-FROM
-    Products AS P2
-WHERE
-    P2.store2 IS NOT NULL
-
-UNION ALL
-SELECT
-    P3.product_id AS product_id,
-    'store3' AS "store",
-    P3.store3 AS price
-FROM
-    Products AS P3
-WHERE
-    P3.store3 IS NOT NULL
-ORDER BY
-    product_id
-;"""
+    path: str = str(pathlib.Path(__file__))[:-3] + ".sql"
+    with open(path, "r") as file:
+        query: str = file.read()
     return query
 
 
 if __name__ == "__main__":
-    database_controller()
-    
-    __import__("atexit").register(lambda: __import__("os").remove("data.db"))
+    import sys
+    if len(sys.argv) < 2:
+        database_controller()
+        __import__("atexit").register(lambda: __import__("os").remove("automatic.db"))
+    else:
+        built("manual.db")
+
 
     # Problem: 1795. Rearrange Products Table
     # Date: 2026-01-03
