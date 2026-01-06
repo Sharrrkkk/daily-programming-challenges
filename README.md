@@ -6,7 +6,7 @@
 - Not every challenge is uploaded, but I try to keep at least one per day.
 
 ### Week 1:
-[Github: letcode Binary String python]()
+[Github: letcode Binary String python](https://github.com/Sharrrkkk/daily-programming-challenges/blob/main/2026/week-1/leetcode-e-binary_string-5.py)
 
 [Original: letcode Binary String python](https://leetcode.com/problems/minimum-number-of-flips-to-reverse-binary-string/?envType=problem-list-v2&envId=string)
 
