@@ -36,8 +36,8 @@ def tests():
 
 
 if __name__ == "__main__":
-    tests()
-    #test()
+    #tests()
+    test()
 
     # Problem: 3750. Minimum Number of Flips to Reverse Binary String
     # Date: 2026-01-06
