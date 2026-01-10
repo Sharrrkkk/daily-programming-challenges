@@ -10,3 +10,6 @@
 
 [Original: letcode Binary String python](https://leetcode.com/problems/minimum-number-of-flips-to-reverse-binary-string/?envType=problem-list-v2&envId=string)
 
+[Github: letcode Binary String python]()
+[Github: letcode Binary String python]()
+
