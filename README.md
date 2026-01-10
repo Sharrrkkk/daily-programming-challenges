@@ -15,3 +15,8 @@
 
 [Original: letcode Binary String python](https://leetcode.com/problems/reverse-string-prefix/solutions/7481986/3794_e_py-by-sharrrkkk-x8t6/)
 
+
+[Github: letcode String python](https://github.com/Sharrrkkk/daily-programming-challenges/blob/main/2026/week-1/leetcode-e-string-6.py)
+
+[Original: letcode String python](https://leetcode.com/problems/permutation-difference-between-two-strings/solutions/7484616/3146_e_py-by-sharrrkkk-ryze/)
+
