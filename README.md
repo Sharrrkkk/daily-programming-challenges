@@ -11,5 +11,5 @@
 [Original: letcode Binary String python](https://leetcode.com/problems/minimum-number-of-flips-to-reverse-binary-string/?envType=problem-list-v2&envId=string)
 
 [Github: letcode Binary String python]()
-[Github: letcode Binary String python]()
+[Original: letcode Binary String python](https://leetcode.com/problems/reverse-string-prefix/solutions/7481986/3794_e_py-by-sharrrkkk-x8t6/)
 
