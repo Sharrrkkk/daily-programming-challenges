@@ -6,7 +6,7 @@
 - Not every challenge is uploaded, but I try to keep at least one per day.
 
 ### Week 2:
-[Github: letcode String python](https://github.com/Sharrrkkk/daily-programming-challenges/blob/main/2026/week-1/leetcode-e-binary_string-5.py)
+[Github: letcode String python](https://github.com/Sharrrkkk/daily-programming-challenges/blob/main/2026/week-2/leetcode-e-string-8.py)
 
 [Original: letcode String python](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/solutions/7495322/2108_e_py-by-sharrrkkk-9mp9/)
 
