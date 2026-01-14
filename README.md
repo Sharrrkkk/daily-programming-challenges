@@ -5,18 +5,10 @@
 - I use this repository to track my problem-solving practice across different platforms and languages.
 - Not every challenge is uploaded, but I try to keep at least one per day.
 
-### Week 1:
-[Github: letcode Binary String python](https://github.com/Sharrrkkk/daily-programming-challenges/blob/main/2026/week-1/leetcode-e-binary_string-5.py)
+### Week 2:
+[Github: letcode String python](https://github.com/Sharrrkkk/daily-programming-challenges/blob/main/2026/week-1/leetcode-e-binary_string-5.py)
 
-[Original: letcode Binary String python](https://leetcode.com/problems/minimum-number-of-flips-to-reverse-binary-string/?envType=problem-list-v2&envId=string)
-
-
-[Github: letcode Binary String python](https://github.com/Sharrrkkk/daily-programming-challenges/blob/main/2026/week-1/leetcode-e-string-6.py)
-
-[Original: letcode Binary String python](https://leetcode.com/problems/reverse-string-prefix/solutions/7481986/3794_e_py-by-sharrrkkk-x8t6/)
+[Original: letcode String python](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/solutions/7495322/2108_e_py-by-sharrrkkk-9mp9/)
 
 
-[Github: letcode String python](https://github.com/Sharrrkkk/daily-programming-challenges/blob/main/2026/week-1/leetcode-e-string-7.py)
-
-[Original: letcode String python](https://leetcode.com/problems/permutation-difference-between-two-strings/solutions/7484616/3146_e_py-by-sharrrkkk-ryze/)
 
